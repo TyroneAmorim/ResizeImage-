@@ -1,3 +1,5 @@
+Based on the project: [Magick++ API](https://imagemagick.org/script/magick++.php)
+
 ### How to compile:
 
 
